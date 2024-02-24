@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1105000000058846",
+      "name": "Xavier-Eats",
+      "domain": {
+        "id": "10054982434",
+        "name": "xavier-eats-717255921.development"
+      },
+      "timezone": "Europe/Lisbon",
+      "env": [
+        {
+          "idx": 1,
+          "id": "717255921",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
